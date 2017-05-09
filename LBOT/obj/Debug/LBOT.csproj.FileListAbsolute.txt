@@ -1,0 +1,8 @@
+c:\users\daveg\onedrive\documents\visual studio 2015\Projects\LBOT\LBOT\bin\Debug\LBOT.exe.config
+c:\users\daveg\onedrive\documents\visual studio 2015\Projects\LBOT\LBOT\bin\Debug\LBOT.exe
+c:\users\daveg\onedrive\documents\visual studio 2015\Projects\LBOT\LBOT\bin\Debug\LBOT.pdb
+c:\users\daveg\onedrive\documents\visual studio 2015\Projects\LBOT\LBOT\bin\Debug\ShellProgressBar.dll
+c:\users\daveg\onedrive\documents\visual studio 2015\Projects\LBOT\LBOT\bin\Debug\ShellProgressBar.pdb
+c:\users\daveg\onedrive\documents\visual studio 2015\Projects\LBOT\LBOT\obj\Debug\LBOT.csprojResolveAssemblyReference.cache
+c:\users\daveg\onedrive\documents\visual studio 2015\Projects\LBOT\LBOT\obj\Debug\LBOT.exe
+c:\users\daveg\onedrive\documents\visual studio 2015\Projects\LBOT\LBOT\obj\Debug\LBOT.pdb
